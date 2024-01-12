@@ -5,4 +5,4 @@
 - 📫 How to reach me: Email - coolcolby.public@gmail.com
 - 😄 Pronouns: He/Him
 
-
+[![](https://skillicons.dev/icons?i=discord&theme=dark)]()
