@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: Roblox Development
 - 🌱 I’m currently learning Lua
-- 📫 How to reach me: Email - coolcolby.public@gmail.com
 - 😄 Pronouns: He/Him
 
-[![](https://skillicons.dev/icons?i=discord&theme=dark)]()
+### Reach Me
+[![](https://skillicons.dev/icons?i=discord)](<https://discord.com/users/701457738202480692>) [![](https://skillicons.dev/icons?i=gmail)](<mailto:coolcolby.public@gmail.com>)
