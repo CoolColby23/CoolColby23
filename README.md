@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on: Roblox Development
-- 🌱 I’m currently learning Lua
+- 🕛 Most Recent Project: [ My Bio Site](<https://bio.coolcolby.me/>)
+- 🌱 I’m currently learning Lua, HTML, CSS
 - 😄 Pronouns: He/Him
 
 ### Reach Me
