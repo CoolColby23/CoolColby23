@@ -1,42 +1,34 @@
 ![👋 Hi, my name is Colby](https://cdn.coolcolby.me/u/r0tfKL.png)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Colby
-      </h1>
-    </summary>
-  </ul>
-</div>
+Hi 👋 My name is Colby
+======================
 
-**<h3 align="center">Connect with me:</h3>** 
-<p align="center"><span><img src="https://img.shields.io/badge/My_GitHub_Page-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></span></p>
+Hi, I am CoolColby! I am a student and Roblox developer. I love to code and learn new things.
 
-<h3 align="left">Hi, I am CoolColby! I am a student and Roblox developer. I love to code and learn new things.</h3>
+## About me 
+* 🔨 Roblox Developer
+* 🏫 I am a highschooler
+* 🐈 I have 3 cats and love animals
+* 🌍  I'm based in United States
+* 🖥️  See my portfolio at [My Website](http://coolcolby.me)
+* ✉️  You can contact me at [contact@coolcolby.me](mailto:contact@coolcolby.me)
+* 🧠  I'm learning Adobe Creative Cloud Software
+* ⚡  My other links can be found on [My Bio Site](https://bio.coolcolby.me/)
 
-**<h3 align="left">About me</h3>**
+### Skills
 
-- 🔨 Roblox Developer
-- 💼 Working on: **My website**
-- ⚡ Learning: **HTML, CSS, JSON, JS**
-- 🏫 **I am a highschooler**
-- 🐈 **I have 3 cats and love animals**
 
-**<h3 align="center">Skills & What I use daily</h3>**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,md,git,robloxstudio,vscode,cloudflare,docker,figma&theme=dark"/>
+<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
-**<h3 align="center">What I am Learning</h3>**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark"/>
-</p>
+### Socials
 
-**<h3 align="center">Thanks To My School I am Also Learning</h3>**
+<p align="left"> <a href="https://www.dev.to/coolcolby23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/701457738202480692" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/CoolColby23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Cool_Colby_23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr&theme=dark"/>
-</p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/CoolColby23"><img src="https://github-readme-stats.vercel.app/api?username=CoolColby23&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CoolColby23's GitHub stats" /></a>
