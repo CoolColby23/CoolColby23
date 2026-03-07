@@ -45,15 +45,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://open.spotify.com/user/dq6hydeb8lklm0mjefckeval7">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dq6hydeb8lklm0mjefckeval7&count=4&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
