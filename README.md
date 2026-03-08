@@ -1,16 +1,6 @@
 <div align="center">
-  <img height="100" src="https://github.com/CoolColby23.png"  />
+  <img src="/header.png"  />
 </div>
-
-
-
-###
-
-<h1 align="center">hey there 👋 I'm Colby</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -22,14 +12,11 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,next,react,astro" />
+  </a>
+</p>
 </div>
 
 ###
@@ -38,10 +25,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=cloudflare,vscode,github,workers,sentry" />
+  </a>
+</p>
 </div>
